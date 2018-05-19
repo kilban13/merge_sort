@@ -1,5 +1,5 @@
 # merge_sort
-Merg sort C programming code...
+Merg sort C programming code with data structure
 
 <h3>Merge Sort</h3>
 The basic steps of a d&c algorithm can be boiled down to these three steps:<br><br>
