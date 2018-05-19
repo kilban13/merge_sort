@@ -13,3 +13,5 @@ The basic steps of a d&c algorithm can be boiled down to these three steps:<br><
 <img src="https://cdn-images-1.medium.com/max/1600/1*p6pvuQ0mKCYkx3ZXv6ufgw.jpeg" /> <br>
 <img src="https://cdn-images-1.medium.com/max/1600/1*V1QaE66T3SgIIO-jv0-fHw.jpeg" /> <br>
 
+<h1> Resources </h1><br>
+<a href="https://medium.com/basecs/making-sense-of-merge-sort-part-1-49649a143478"> The ins and out of merge sort </a>
